@@ -1,4 +1,4 @@
-# Seed Frontend Homework
+# Ambient Frontend Homework
 
 As part of our application process, we'd like to see what you can produce by giving you a small assignment. It should take you no more than a few hours to complete the assignment, but any extra polish or features you might want to put in will not go unnoticed.
 
@@ -24,13 +24,8 @@ Your backend can be anything, and does not have to work. If you would like to us
 
 ## Requirements
 
-You should use the following tools to accomplish this task:
+You should use the ReactJS to accomplish this task.
 
- - React
- - Flux
- - Webpack (should run with webpack-dev-server)
- - Babel - ES6/7 Syntax - you pick the stages
-
-If you have any questions, please ask!
+If you have any questions, please ask - david.liman@ambientsecurity.ai!
 
 To complete your homework, please fork this repo and commit your work to your fork. When you are ready for us to look at it, give us access to your fork so we can review and run it.
